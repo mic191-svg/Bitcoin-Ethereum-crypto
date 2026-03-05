@@ -1,15 +1,21 @@
 <div align="center" >
-   <b>🔥 全网最全加密货币资源库,比特币入门指南🔥</b></br>
-   <b>🔥 5分钟了解比特币是什么加密货币区块链等概念 🔥</b>
+   <b>🔥 比特币入门指南,全网最全加密货币资源库🔥</b></br>
+   <b>🔥 加密货币资源大全｜区块链与币圈一站式学习工具平台 🔥</b>
 </div>
-<span style="font-size:30px; color:red;">我是超大红色字</span>
 
-&nbsp;
 
 # 前言
-- **币圈导航虚拟加密货币资源大全，欢迎访问全网最全的区块链与加密货币资源导航平台，专为币圈新手与爱好者打造，提供一站式信息整合服务，助您快速入门加密世界本站涵盖中心化交易所注册链接及官网入口，如欧易OKX、芝麻开门Gate、币安Binance等，囊括主流交易平台的注册引导与使用说明除此之外，还收录了实时数据分析工具、巨鲸资金流向追踪、NFT市场行情动态、优质空投信息、链上分析平台、DeFi协议解析、DAO社区运作、跨链桥接工具、安全加密钱包推荐等各类高频使用资源我们致力于为用户提供最新最全的币圈实用工具和学习资料，降低信息获取门槛欢迎社区成员积极反馈补充，共建开放共享的区块链知识库关注本站，开启您的加密资产投资之路，深入探索Web3的无限可能** 
+- 欢迎访问全网全面、专业、实时更新的区块链与加密货币资源平台，本站专为币圈新手、投资者及 Web3 爱好者打造，提供一站式信息整合与实用工具导航服务，助力用户快速入门加密资产世界，轻松掌握行业核心知识与操作技能。</br>
 
-# **导航：** 
+- 本站汇集主流中心化交易所官方注册链接与正版官网入口，包括币安 Binance、欧易 OKX、预测市场 polymarket、芝麻开门 Gate 等知名交易平台，并提供详细的注册流程、使用教程与安全操作指南，帮助用户安全便捷地使用主流交易服务。</br>
+
+- 除此之外，平台还全面收录加密货币行业高频实用资源，涵盖实时行情数据分析、巨鲸资金流向监控、NFT 市场行情动态、优质空投项目推送、链上数据查询分析、DeFi 协议介绍与使用教程、DAO 社区运作模式、跨链桥接工具推荐、安全加密钱包选型等内容，全方位满足币圈用户学习、查询、交易与投资需求。</br>
+
+- 我们始终致力于为广大用户提供最新、最全、最可靠的加密货币工具与学习资料，降低行业信息获取门槛，提升投资与操作安全度。同时欢迎社区用户积极反馈、补充优质资源，与我们共同打造开放、共享、高效的区块链知识与工具库。</br>
+
+- 关注本站，从零开始系统学习加密资产投资，深入探索 Web3 生态，开启属于你的加密世界探索之旅。 
+
+# **快捷导航：** 
 
 [科学上网工具](#科学上网工具) | [监听聪明钱包](#监听聪明钱包) | [AI交易系统](#AI交易系统) | [交易所](#交易所) | [空投](#空投) | [Web3](#Web3) | [交易](#交易) | [数据工具](#数据工具) | [巨鲸追踪](#巨鲸追踪) | [NFT](#nft) | [元宇宙](#元宇宙) | [钱包](#钱包) | [新闻媒体](#新闻媒体) | [空投](#空投) | [DAO](#dao) | [基础工具](#基础工具) | [跨链工具](#跨链工具) | [币圈名人](#币圈名人) | [IDO/IEO](#idoieo) | [DAO组织](#dao组织) | [出入金](#出入金) | [社交媒体](#社交媒体) | [电报群](#电报群)
 
@@ -18,6 +24,31 @@
 - [vpnnav.github.io](https://vpnnav.github.io)
 
 请注意，以上工具仅供学习使用若利用这些工具从事违法犯罪行为，我们概不承担任何法律责任
+
+## 交易所
+| [<img src="./logo/bian.png" width="90" height="90" ><br>币安](https://accounts.binance.com/zh-CN/register?ref=FANXIAN) | [<img src="./logo/okex.png" width="90" height="90" ><br>欧意OKX](https://www.okx.com/zh-hans/join/50253981) |  [<img src="./logo/bitget.png" width="90" height="90" ><br>bitget](https://www.bitget.com/zh-CN/referral/register?clacCode=QR4A7MPY) |[<img src="./logo/bybit.png" width="90" height="90" ><br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) | [<img src="./logo/huobi.png" width="90" height="90" ><br>火币](https://www.htx.com.am/invite/zh-cn/1f?invite_code=xpi6a223) |
+|:---:|:---:|:---:|:---:|:---:|
+| [<img src="./logo/coinbase.png" width="90" height="90" ><br>CoinBase](https://www.coinbase.com/) | [<img src="./logo/kraken.png" width="90" height="90" ><br>kraken海妖](https://www.kraken.com/) | [<img src="./logo/kucoin.png" width="90" height="90" ><br>KuCoin](https://www.kucoin.com) | [<img src="./logo/mocha.png" width="90" height="90" ><br>抹茶MEXC](https://promote.mexc.com/r/wIE7fPvG) | [<img src="./logo/gate_io.png" width="90" height="90" ><br>Gate.io](https://www.gatenode.xyz/share/USDTOKOK) |
+
+**❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
+
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
+| 欧易OKX    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)邀请码：**50253981** ，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
+| ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=66QLX94)   |      ByBit交易所(减免30%手续费)邀请码：**66QLX94**|
+| Bitget    |   [https://www.bitget.com](https://www.bitget.com/zh-CN/referral/register?clacCode=4BUM7GXX)   |      Bitget交易所(减免40%手续费)邀请码：**4BUM7GXX**|
+| Gate.io    |   [https://www.gatesee.com](https://www.gatenode.xyz/share/USDTOKOK)   |     Gate.io交易所(减免40%手续费)邀请码：**USDTOKOK**|
+| 火币    |   [https://www.htx.com](https://www.htx.com.am/invite/zh-cn/1f?invite_code=xpi6a223)   |      火币交易所(减免30%手续费)邀请码：**xpi6a223**|
+| 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)邀请码：**wIE7fPvG**|
+| Web3撸空投  | [@tglukongtou](https://t.me/tglukongtou)             | 致力于为您提供每日更新的加密货币空投项目信息、保姆级撸空投教程、钱包安全指南与行业动态。空投官网：[web3.0xnav.com](web3.0xnav.com) |
+| 加密货币交流群  | [@jmhbgroup](https://t.me/jmhbgroup)             | 一起交流加密货币相关内容  |
+
+![](https://imgur.com/MlRDjeU.png)
+
+![](https://imgur.com/H21EIP4.png)
+
+
 
 ## 监听聪明钱包
 
@@ -46,29 +77,6 @@
 - [@AI-Trader](https://github.com/HKUDS/AI-Trader)
 
 这个开源项目是一个“使用 AI 代理模型在纳斯达克‑100 市场进行真实或模拟交易，并对比不同模型表现”的量化交易平台。
-
-## 交易所
-| [<img src="./logo/bian.png" width="90" height="90" ><br>币安](https://accounts.binance.com/zh-CN/register?ref=FANXIAN) | [<img src="./logo/okex.png" width="90" height="90" ><br>欧意OKX](https://www.okx.com/zh-hans/join/50253981) |  [<img src="./logo/bitget.png" width="90" height="90" ><br>bitget](https://www.bitget.com/zh-CN/referral/register?clacCode=QR4A7MPY) |[<img src="./logo/bybit.png" width="90" height="90" ><br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) | [<img src="./logo/huobi.png" width="90" height="90" ><br>火币](https://www.htx.com.am/invite/zh-cn/1f?invite_code=xpi6a223) |
-|:---:|:---:|:---:|:---:|:---:|
-| [<img src="./logo/coinbase.png" width="90" height="90" ><br>CoinBase](https://www.coinbase.com/) | [<img src="./logo/kraken.png" width="90" height="90" ><br>kraken海妖](https://www.kraken.com/) | [<img src="./logo/kucoin.png" width="90" height="90" ><br>KuCoin](https://www.kucoin.com) | [<img src="./logo/mocha.png" width="90" height="90" ><br>抹茶MEXC](https://promote.mexc.com/r/wIE7fPvG) | [<img src="./logo/gate_io.png" width="90" height="90" ><br>Gate.io](https://www.gatenode.xyz/share/USDTOKOK) |
-
-**❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
-
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
-| 欧易OKX    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)邀请码：**50253981** ，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
-| ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=66QLX94)   |      ByBit交易所(减免30%手续费)邀请码：**66QLX94**|
-| Bitget    |   [https://www.bitget.com](https://www.bitget.com/zh-CN/referral/register?clacCode=4BUM7GXX)   |      Bitget交易所(减免40%手续费)邀请码：**4BUM7GXX**|
-| Gate.io    |   [https://www.gatesee.com](https://www.gatenode.xyz/share/USDTOKOK)   |     Gate.io交易所(减免40%手续费)邀请码：**USDTOKOK**|
-| 火币    |   [https://www.htx.com](https://www.htx.com.am/invite/zh-cn/1f?invite_code=xpi6a223)   |      火币交易所(减免30%手续费)邀请码：**xpi6a223**|
-| 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)邀请码：**wIE7fPvG**|
-| Web3撸空投  | [@tglukongtou](https://t.me/tglukongtou)             | 致力于为您提供每日更新的加密货币空投项目信息、保姆级撸空投教程、钱包安全指南与行业动态。空投官网：[web3.0xnav.com](web3.0xnav.com) |
-| 加密货币交流群  | [@jmhbgroup](https://t.me/jmhbgroup)             | 一起交流加密货币相关内容  |
-
-![](https://imgur.com/MlRDjeU.png)
-
-![](https://imgur.com/H21EIP4.png)
 
 ## 空投
 
