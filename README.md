@@ -76,6 +76,8 @@
 - [以太坊黄皮书](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [区块链黑暗森林自救手册](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md) - 慢雾团队编写的区块链安全防护与自救指南
 
+&nbsp;
+&nbsp;
 ## 📖加密货币新闻资讯
 - [非小号](https://www.feixiaohao.co/) - 国内行情工具，覆盖币种信息、交易所动态  
 - [金十数据](https://www.jin10.com/) - 金十数据致力于成为国内专业的财经新闻软件和交易工具  
@@ -89,7 +91,9 @@
 - [律动](https://www.theblockbeats.info/) - 区块链及数字货币行业信息平台，内容包括行情、深度分析等  
 - [PANews - 区块链新闻资讯](https://www.panewslab.com/zh/index.html) - 专业区块链新闻资讯服务平台  
 
-### 区块链浏览器
+&nbsp;
+&nbsp;
+## 📖区块链浏览器
 - [Linea区块浏览器](https://lineascan.build) - Linea浏览器
 - [Combo测试网浏览器](https://combotrace-testnet.nodereal.io/) - Combo测试网浏览器
 - [Dogecoin区块浏览器](https://chain.so/DOGE) - Dogecoin浏览器
@@ -117,7 +121,9 @@
 - [Blockchair](https://blockchair.com/) - 多链浏览器
 - [Etherscan](https://etherscan.io) - 以太坊浏览器
 
-### 币种官网
+&nbsp;
+&nbsp;
+## 📖币种官网
 - [Bitcoin](https://bitcoin.org) - 比特币官网
 - [以太坊](https://ethereum.org) - 以太坊官网
 - [USDT](https://tether.to) - USDT官网
@@ -133,11 +139,9 @@
 - [Dogecoin](https://dogecoin.com) - Dogecoin官网
 
 
-
-
-## 钱包
-
-### 软件钱包
+&nbsp;
+&nbsp;
+## 📖软件钱包
 
 - [MetaMask](https://metamask.io/) - 浏览器扩展与移动端钱包，支持以太坊及 EVM 链，可连接 DApp 与 DeFi 平台。  
 - [Trust Wallet](https://trustwallet.com/) - 多链移动钱包，支持上百种区块链资产，内置 DApp 浏览器。  
@@ -156,7 +160,9 @@
 - [SafePal](https://www.safepal.io/) - 币安投资的钱包品牌，支持软件与硬件结合的多链管理方案。  
 - [Atomic Wallet](https://atomicwallet.io/) - 支持300多种加密货币的桌面和移动端钱包，提供原子交换和Staking功能。
 
-### 硬件钱包
+&nbsp;
+&nbsp;
+## 📖硬件钱包
 
 - [Ledger](https://www.ledger.com/) - 全球知名的硬件钱包品牌，以安全性和多币种支持著称。  
 - [Trezor](https://trezor.io/) - 行业内首批硬件钱包品牌，提供高安全性与友好操作体验。  
