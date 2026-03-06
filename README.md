@@ -44,6 +44,7 @@
 | ByBit | [https://www.bybit.com](https://www.bybit.com) | 使用邀请码注册：0000 、减免30%手续费 |
 | Bitget | [https://www.bitget.com](https://www.bitget.com) | 使用邀请码注册：0000 、减免40%手续费 |
 | Gate.io | [https://www.gatesee.com](https://www.gatenode.xyz) | 使用邀请码注册：0000 、减免40%手续费 |
+| Hyperbot | [https://hyperbot.network/](https://hyperbot.network/) | 由AI驱动的链上永续合约交易平台 |
 | 火币 | [https://www.htx.com](https://www.htx.com) | 使用邀请码注册：0000 、减免30%手续费 |
 | 抹茶 | [https://www.mexc.co](https://promote.mexc.com) | 使用邀请码注册：0000 、减免40%手续费 |
 
@@ -53,16 +54,6 @@
 - [📱 境外手机卡推荐](./docs/境外手机卡推荐) -  拒绝高昂漫游费！深挖全球高性价比境外手机卡，月租起底 + 实测对比。
 - [💳 U卡全景解密](./docs/U卡是什么？) - 一文讲透 U 卡的底层逻辑、分类玩法与致命风险。数字货币从业者的必备生存工具书，读懂它，资金流转更自由。
 - [🌲 穿越牛熊：币圈新手的进阶生存指南](./docs/币圈赚钱入门指南) - 抛弃暴富幻想，直面血腥丛林！掌握这套“暗黑森林”存活逻辑，你才能在波动中不仅活下来，还能带走利润。
-
-
-&nbsp;
-&nbsp;
-## 📖市场聪明钱监控
-
-- [@hyperbot](https://hyperbot.network/)   由AI驱动的链上永续合约交易平台：数据分析、巨鲸追踪、智能跟单、策略交易
-- [@Debot](https://debot.ai)   可以实时跟踪聪明钱包的交易下单情况，跟紧聪明人做交易
-- [@gmgn.ai](https://gmgn.ai)   专注市场火爆MEME的跟踪交易辅助平台，更有复制交易和风险提示等功能
-
 
 &nbsp;
 &nbsp;
