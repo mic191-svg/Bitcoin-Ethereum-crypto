@@ -1,3 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="加密货币入门指南,全网最全虚拟币资源库，比特币区块链学习资料，币圈最新最快资讯">
+    <meta name="keywords" content="BTC,ETH,BNB,SOL,ADA,doge,加密货币,telegram,币安,欧易,okx,Hyperbot,ByBit,Bitget,Gate,虚拟币,虚拟货币,交易所,比特币,以太坊,狗狗币">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="币圈赚钱比特币教程">
+</head>
+<body>
+    <!-- 你的页面内容写在这里 -->
+</body>
+</html>
+
+
 <h3 align="center">⭐加密货币入门指南,全网最全虚拟币资源库⭐</h3>
 <h3 align="center">⭐比特币区块链学习资料，币圈最新最快资讯⭐</h3>
 
